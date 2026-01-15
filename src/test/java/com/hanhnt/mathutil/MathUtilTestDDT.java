@@ -23,7 +23,7 @@ public class MathUtilTestDDT {
             {2, 2},
             {5, 120},
             {6, 720},
-            {4, 24}
+            {7, 24}
         };
     }
     @ParameterizedTest
